@@ -1,0 +1,66 @@
+.mainNews{
+    position: relative;
+    width: 100%;
+    height: 25vh;
+    min-height: 25vh;
+    z-index: 10;
+    background: linear-gradient(to left, #000, #000 50% ,transparent);
+    color: #fff;
+    display: flex;
+}
+
+.mainNews > * {
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.upcomingEvents{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.upcomingEvents h5{
+    width: 100%;
+    font-size: 5vh;
+    color: transparent;
+    -webkit-text-stroke: 1px #fff;
+}
+
+.event{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.event a{
+    text-decoration: none;
+    color: #f00;
+    margin-top: 10px;
+}
+
+.newsDiv{
+    display: flex;
+}
+
+.newsDiv img{
+    position: relative;
+    width: 33%;
+    height: 100%;
+    object-fit: cover;
+    flex: 1;
+    opacity: .3;
+    transition: .2s;
+    cursor: pointer;
+}
+
+.newsDiv img:hover{
+    opacity: .5;
+}
+
+.active{
+    opacity: 1 !important;
+    border: solid 1px red;
+}
