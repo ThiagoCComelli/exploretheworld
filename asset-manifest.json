@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/exploretheworld/static/css/main.0dec9f45.chunk.css",
+    "main.js": "/exploretheworld/static/js/main.3c3c7fc3.chunk.js",
+    "main.js.map": "/exploretheworld/static/js/main.3c3c7fc3.chunk.js.map",
+    "runtime-main.js": "/exploretheworld/static/js/runtime-main.e2db6464.js",
+    "runtime-main.js.map": "/exploretheworld/static/js/runtime-main.e2db6464.js.map",
+    "static/js/2.71aa6614.chunk.js": "/exploretheworld/static/js/2.71aa6614.chunk.js",
+    "static/js/2.71aa6614.chunk.js.map": "/exploretheworld/static/js/2.71aa6614.chunk.js.map",
+    "index.html": "/exploretheworld/index.html",
+    "static/css/main.0dec9f45.chunk.css.map": "/exploretheworld/static/css/main.0dec9f45.chunk.css.map",
+    "static/js/2.71aa6614.chunk.js.LICENSE.txt": "/exploretheworld/static/js/2.71aa6614.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2db6464.js",
+    "static/js/2.71aa6614.chunk.js",
+    "static/css/main.0dec9f45.chunk.css",
+    "static/js/main.3c3c7fc3.chunk.js"
+  ]
+}
